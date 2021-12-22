@@ -27,7 +27,7 @@
 <!-- GitHub Stats // Stats Card -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=bellmano&&show_icons=true&theme=radical&include_all_commits&custom_title=Bellmano's GitHub Stats&hide=contribs,issues"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=bellmano&&show_icons=true&theme=radical&include_all_commits&hide=contribs,issues"/>
   </a>
 </p>
 
