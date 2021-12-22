@@ -5,7 +5,11 @@
 
 <!-- "About" section -->
 <p align="center">
-  This is my GitHub account for private use :lock: I'm a Developer that lives in Stockholm, Sweden :neckbeard:
+  This is my GitHub account for private use :lock:
+</p>
+
+<p align="center">
+  I'm a Developer that lives in Stockholm, Sweden :neckbeard:
 </p>
 
 <!-- Social icons section -->
