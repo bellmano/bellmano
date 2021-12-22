@@ -1,3 +1,3 @@
 - Hi, my name is Mattias Mälman. :raised_hands:
-- This is my private GitHub account. :lock:
+- This is my GitHub account for private use. :lock:
 - I'm a Developer that lives in Stockholm, Sweden. :neckbeard:
