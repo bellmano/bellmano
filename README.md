@@ -9,6 +9,4 @@
 <br></br><hr></hr>
 
 ### GitHub Stats :sunglasses:
-<a href="https://github.com/bellmano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bellmano&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Bellmano's github stats" /></a> 
-<a href="https://github.com/bellmano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellmano&layout=compact&theme=radical&hide_border=true" /></a>
-<hr></hr>
+<a href="https://github.com/bellmano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bellmano&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Bellmano's github stats" /></a>
