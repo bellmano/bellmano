@@ -23,11 +23,6 @@
 <!-- Separator -->
 <hr></hr>
 
-<!-- Title for "GitHub Stats" -->
-<h3 align="center">
-  GitHub Stats :sunglasses:
-</h3>
-
 <!-- GitHub Stats // Stats Card -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
